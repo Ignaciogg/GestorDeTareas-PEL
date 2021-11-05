@@ -41,22 +41,22 @@ logTotal.txt
 
 ### Capturas:
 *Opción 1: Ver Disponibles* <br />
-![verDisponibles](screenshots/verDisponibles.png)
+![verDisponibles](screenshots/c1.PNG)
 
 *Opción 2: Crear nueva tarea* <br />
-![verHistorialUsuario](screenshots/verHistorialUsuario.PNG)
+![crearNuevaTarea](screenshots/c2.PNG)
 
 *Opción 3: Borrar tarea* <br />
-![verLibroEnUsuario](screenshots/verLibroEnUsuario.PNG)
+![borrarTarea](screenshots/c3.PNG)
 
 *Opción 4: Editar tarea* <br />
-![verLibroEnUsuario](screenshots/anadirLibro4.1.PNG)
+![editarTarea](screenshots/c4.PNG)
 
 *Opción 5: Ver tarea más urgente* <br />
-![verLibroEnUsuario](screenshots/eliminarLibro4.2.PNG)
+![verUrgente](screenshots/c5.PNG)
 
 *Opción 6: Exportar el archivo principal a CSV* <br />
-![verLibroEnUsuario](screenshots/mostrarUsuarios.PNG)
+![exportarCSV](screenshots/c6.PNG)
 
 *Opción 7: Ver log de la sesion actual* <br />
-![verLibroEnUsuario](screenshots/7.1.PNG)
+![verLog](screenshots/c7.PNG)
