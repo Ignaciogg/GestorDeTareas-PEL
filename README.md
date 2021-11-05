@@ -32,18 +32,12 @@ logTotal.txt
 
 ### Funciones:
 - Ver lista de tareas actuales
-
--Crear nueva tarea
-
--Borrar tarea
-
--Editar tarea
-
--Ver tarea más urgente
-
--Exportar el archivo principal a CSV
-
--Ver log de la sesion actual (Free Space utilizado en la función de log)
+- Crear nueva tarea
+- Borrar tarea
+- Editar tarea
+- Ver tarea más urgente
+- Exportar el archivo principal a CSV
+- Ver log de la sesion actual (Free Space)
 
 ### Capturas:
 *Opción 1: Ver Disponibles* <br />
