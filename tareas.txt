@@ -1,5 +1,0 @@
-1;Pasear_al_perro;Macarena;10:12
-3;Tirar_la_basura;Pablo;12:38
-4;Regar_las_plantas;Marcos;19:52
-2;Hacer_deberes_PEL;Nacho;13:30
-3;Saludar_vecinos;Elena;17:34
